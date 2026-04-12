@@ -54,13 +54,13 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'boom-box',
 			link: 'https://music.youtube.com',
 		},
 		{
 			id: '2',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'mailbox',
 			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'bot',
 			link: 'https://chat.deepseek.com/',
 		},
 		{
