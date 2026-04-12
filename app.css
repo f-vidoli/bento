@@ -35,19 +35,19 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #83a598;       /* Hover color (Gruvbox blue) */
+  --background: #282828;   /* Background color (Gruvbox bg0) */
+  --cards: #3c3836;        /* Cards color (Gruvbox bg1) */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #ebdbb2;           /* Foreground color (Gruvbox light beige) */
+  --sfg: #a89984;          /* Secondary Foreground color (Gruvbox gray) */
 
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.85),
-    rgba(0, 0, 0, 0.85)
-  ); /* Filter color */
+    rgba(40, 40, 40, 0.85),
+    rgba(40, 40, 40, 0.85)
+  ); /* Filter color (matches Gruvbox dark background) */
 }
 
 /* S T Y L E S */
