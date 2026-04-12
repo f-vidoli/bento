@@ -66,8 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://drive.google.com/drive/u/1/folders/1FW6a3E-5pLxew_sfZGiF-qsTauFrLKYj',
+			icon: 'earth',
+			link: 'https://ground.news/',
 		},
 		{
 			id: '4',
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
+			icon: 'message-circle',
 			link: 'https://web.whatsapp.com/',
 		},
 	],
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Drive',
+					link: 'https://drive.google.com/drive/u/1/folders/1FW6a3E-5pLxew_sfZGiF-qsTauFrLKYj',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/v2/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NotebookLM',
+					link: 'https://notebooklm.google.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Overleaf',
+					link: 'https://www.overleaf.com/project',
 				},
 			],
 		},
@@ -161,7 +161,7 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
+					name: 'Wikiloc',
 					link: 'https://www.linkedin.com',
 				},
 				{
