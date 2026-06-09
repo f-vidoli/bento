@@ -37,11 +37,11 @@
   /* Dark Colors  */
   --accent: #f0c674;       /* Hover color (Gruvbox blue) */
   --background: #0f0f0d;   /* Background color (Gruvbox bg0) */
-  --cards: #201e18;        /* Cards color (Gruvbox bg1) */
+  --cards: #201018;        /* Cards color (Gruvbox bg1) */
 
   /* Fonts Color */
   --fg: #c5c8c6;           /* Foreground color (Gruvbox light beige) */
-  --sfg: #c5c8c6;          /* Secondary Foreground color (Gruvbox gray) */
+  --sfg: #0f0f0d;          /* Secondary Foreground color (Gruvbox gray) */
 
   /* Image background  */
   --imgcol: linear-gradient(
